@@ -1,0 +1,12 @@
+# Python venv files/folders
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+
+
+# Custom files/folders
+test.py
+
+
